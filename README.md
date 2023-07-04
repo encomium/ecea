@@ -8,4 +8,4 @@ Figure A. Prediction results of ECEA in an image with multiple occlusion objects
 
 ### Figure 2
 
-![Figure2](./assets/Figure2.jpg)
+![Figure2](assets/Figure2.jpg)
