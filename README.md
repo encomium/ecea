@@ -1,4 +1,4 @@
-### Figure A
+### Figure A([PDF](./FigureA.pdf))
 
 ![image-20230704092425451](assets/FigureA.png)
 
@@ -6,6 +6,6 @@ Figure A. Prediction results of ECEA in an image with multiple occlusion objects
 
 
 
-### Figure 2
+### Figure 2 ([PDF](./Figure2.pdf))
 
 ![Figure2](assets/Figure2.jpg)
